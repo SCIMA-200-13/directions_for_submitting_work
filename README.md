@@ -1,6 +1,3 @@
-# directions_for_submitting_work
-# directions_for_submitting_work
-
 Submitting homework with GitHub: a 3-minute guide
 -------------------------------------------------
 
